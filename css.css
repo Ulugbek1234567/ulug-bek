@@ -1,0 +1,23 @@
+h1{
+    width: 600px;
+    background-color: rgb(75, 31, 31);
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin-left: 400px;
+}
+.box{
+    width: 750px;
+    background-color: black;
+    padding: 40px;
+    border: 5px solid red;
+    margin-left: 300px;
+}
+p{
+    background-color: aquamarine;
+    padding: 50px;
+    font-weight: 800;
+}
+body{
+    background-color: rgb(14, 55, 42);
+}
